@@ -1,3 +1,5 @@
+using Microsoft.EntityFrameworkCore;
+
 namespace Web_CourseWork.Models
 {
     public class OrganisationContext : DbContext
