@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Collins Office\\Web_CourseWork\\Web_CourseWork.csproj": {}
+    "c:\\Users\\Collins Office\\Web_CourseWork\\Web_CourseWork.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Collins Office\\Web_CourseWork\\Web_CourseWork.csproj": {
+    "c:\\Users\\Collins Office\\Web_CourseWork\\Web_CourseWork.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Collins Office\\Web_CourseWork\\Web_CourseWork.csproj",
+        "projectUniqueName": "c:\\Users\\Collins Office\\Web_CourseWork\\Web_CourseWork.csproj",
         "projectName": "Web_CourseWork",
-        "projectPath": "C:\\Users\\Collins Office\\Web_CourseWork\\Web_CourseWork.csproj",
+        "projectPath": "c:\\Users\\Collins Office\\Web_CourseWork\\Web_CourseWork.csproj",
         "packagesPath": "C:\\Users\\Collins Office\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Collins Office\\Web_CourseWork\\obj\\",
+        "outputPath": "c:\\Users\\Collins Office\\Web_CourseWork\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Collins Office\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -46,6 +46,20 @@
           "targetAlias": "net8.0",
           "dependencies": {
             "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.2, )"
             },
