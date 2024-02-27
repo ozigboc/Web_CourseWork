@@ -8648,11 +8648,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Collins Office\\Web_CourseWork\\Web_CourseWork.csproj",
+      "projectUniqueName": "C:\\Users\\Collins Office\\Desktop\\Web_CourseWork\\Web_CourseWork.csproj",
       "projectName": "Web_CourseWork",
-      "projectPath": "C:\\Users\\Collins Office\\Web_CourseWork\\Web_CourseWork.csproj",
+      "projectPath": "C:\\Users\\Collins Office\\Desktop\\Web_CourseWork\\Web_CourseWork.csproj",
       "packagesPath": "C:\\Users\\Collins Office\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Collins Office\\Web_CourseWork\\obj\\",
+      "outputPath": "C:\\Users\\Collins Office\\Desktop\\Web_CourseWork\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Collins Office\\AppData\\Roaming\\NuGet\\NuGet.Config",
