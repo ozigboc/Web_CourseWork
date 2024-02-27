@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Collins Office\\Desktop\\Web_CourseWork\\Web_CourseWork.csproj": {}
+    "c:\\Users\\Collins Office\\Desktop\\Web_CourseWork\\Web_CourseWork.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Collins Office\\Desktop\\Web_CourseWork\\Web_CourseWork.csproj": {
+    "c:\\Users\\Collins Office\\Desktop\\Web_CourseWork\\Web_CourseWork.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Collins Office\\Desktop\\Web_CourseWork\\Web_CourseWork.csproj",
+        "projectUniqueName": "c:\\Users\\Collins Office\\Desktop\\Web_CourseWork\\Web_CourseWork.csproj",
         "projectName": "Web_CourseWork",
-        "projectPath": "C:\\Users\\Collins Office\\Desktop\\Web_CourseWork\\Web_CourseWork.csproj",
+        "projectPath": "c:\\Users\\Collins Office\\Desktop\\Web_CourseWork\\Web_CourseWork.csproj",
         "packagesPath": "C:\\Users\\Collins Office\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Collins Office\\Desktop\\Web_CourseWork\\obj\\",
+        "outputPath": "c:\\Users\\Collins Office\\Desktop\\Web_CourseWork\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Collins Office\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -21,7 +21,6 @@
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -45,6 +44,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "MailKit": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.2, )"
