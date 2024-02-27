@@ -1,3 +1,4 @@
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Web_CourseWork.Models;
 
@@ -11,6 +12,8 @@ builder.Services.AddControllers();
 builder.Services.AddDbContext<OrganisationContext>(options =>
     options.UseSqlite(builder.Configuration.GetConnectionString("Connection")));
 
+builder.Services.AddIdentity<IdentityUser, IdentityRole>()
+    .AddEntityFrameworkStores<OrganisationContext>().AddDefaultTokenProviders();
 
 var app = builder.Build();
 

@@ -1,8 +1,10 @@
+using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
 namespace Web_CourseWork.Models
 {
-    public class OrganisationContext : DbContext
+    public class OrganisationContext : IdentityDbContext<IdentityUser>
     {
         public OrganisationContext(DbContextOptions<OrganisationContext> options)
         : base(options)
