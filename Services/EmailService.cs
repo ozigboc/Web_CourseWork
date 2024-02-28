@@ -3,7 +3,7 @@ using MailKit.Net.Smtp;
 using MailKit.Security;
 using MimeKit;
 using Microsoft.Extensions.Options;
-
+namespace Web_CourseWork.Services;
 public class EmailService
 {
     private readonly EmailSettings _emailSettings;

@@ -1,3 +1,5 @@
+
+namespace Web_CourseWork.Models;
 public class AuthModel
 {
     public string Email { get; set; }

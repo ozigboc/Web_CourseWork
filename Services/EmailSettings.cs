@@ -1,3 +1,5 @@
+
+namespace Web_CourseWork.Services;
 public class EmailSettings
 {
     public string SmtpServer { get; set; }
