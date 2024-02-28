@@ -562,3 +562,6 @@ C:\Users\Collins Office\Desktop\Web_CourseWork\bin\Debug\net8.0\Microsoft.AspNet
 C:\Users\Collins Office\Desktop\Web_CourseWork\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
 C:\Users\Collins Office\Desktop\Web_CourseWork\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
 C:\Users\Collins Office\Desktop\Web_CourseWork\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Collins Office\Desktop\Web_CourseWork\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\Collins Office\Desktop\Web_CourseWork\bin\Debug\net8.0\MailKit.dll
+C:\Users\Collins Office\Desktop\Web_CourseWork\bin\Debug\net8.0\MimeKit.dll
