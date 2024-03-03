@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Collins Office\\Desktop\\Web_CourseWork\\Web_CourseWork.csproj": {}
+    "C:\\Users\\Collins Office\\Desktop\\Web_CourseWork\\Web_CourseWork.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Collins Office\\Desktop\\Web_CourseWork\\Web_CourseWork.csproj": {
+    "C:\\Users\\Collins Office\\Desktop\\Web_CourseWork\\Web_CourseWork.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Collins Office\\Desktop\\Web_CourseWork\\Web_CourseWork.csproj",
+        "projectUniqueName": "C:\\Users\\Collins Office\\Desktop\\Web_CourseWork\\Web_CourseWork.csproj",
         "projectName": "Web_CourseWork",
-        "projectPath": "c:\\Users\\Collins Office\\Desktop\\Web_CourseWork\\Web_CourseWork.csproj",
+        "projectPath": "C:\\Users\\Collins Office\\Desktop\\Web_CourseWork\\Web_CourseWork.csproj",
         "packagesPath": "C:\\Users\\Collins Office\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Collins Office\\Desktop\\Web_CourseWork\\obj\\",
+        "outputPath": "C:\\Users\\Collins Office\\Desktop\\Web_CourseWork\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Collins Office\\AppData\\Roaming\\NuGet\\NuGet.Config",

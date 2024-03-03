@@ -565,3 +565,4 @@ C:\Users\Collins Office\Desktop\Web_CourseWork\bin\Debug\net8.0\Microsoft.Extens
 C:\Users\Collins Office\Desktop\Web_CourseWork\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
 C:\Users\Collins Office\Desktop\Web_CourseWork\bin\Debug\net8.0\MailKit.dll
 C:\Users\Collins Office\Desktop\Web_CourseWork\bin\Debug\net8.0\MimeKit.dll
+C:\Users\Collins Office\Desktop\Web_CourseWork\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
