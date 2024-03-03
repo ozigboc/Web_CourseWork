@@ -18,7 +18,7 @@ namespace Web_CourseWork.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    [Authorize(Roles = "Admin")]
+    // [Authorize(Roles = "Admin")]
     public class RolesController : ControllerBase
     {
         private readonly RoleManager<IdentityRole> _roleManager;
@@ -51,9 +51,13 @@ namespace Web_CourseWork.Controllers
         }
 
         [HttpPost]
-        public async Task<IActionResult> CreateRole([FromBody] string roleName)
+        public async Task<IActionResult> CreateRole([FromBody] CreateRoleRequest request)
         {
-            var role = new IdentityRole(roleName);
+            if (request == null || string.IsNullOrEmpty(request.RoleName))
+            {
+                return BadRequest("RoleName is required");
+            }
+            var role = new IdentityRole(request.RoleName);
             var result = await _roleManager.CreateAsync(role);
 
             if (result.Succeeded)
