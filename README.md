@@ -1,7 +1,8 @@
 
 # .NET Core Backend Service Project README
 
-Introduction
+**Introduction:**
+
 The .NET Core backend service project aims to develop a robust and scalable RESTful backend service using .NET Core (C#). Key features include integration with SQLite Server databases for efficient data management, JWT token-based authentication, and user role management using Identity Framework. Emphasis is placed on code organization, readability, and maintainability, with GitHub for version control and Microsoft Azure for deployment. 
 
 ## Project Description
