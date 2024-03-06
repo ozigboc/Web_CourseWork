@@ -34,6 +34,7 @@ The codebase follows a structured organization:
 Models: Contains database models representing entities and their relationships.
 Controllers: Houses controllers responsible for handling incoming HTTP requests and generating appropriate responses.
 Authentication: Encapsulates authentication-related logic within dedicated models and controllers.
+
 Getting Started
 To set up the project locally, follow these steps:
 
@@ -43,10 +44,12 @@ Configure the application settings, including database connection strings and em
 Build and run the application locally for testing and development purposes.
 For detailed installation and setup instructions, refer to the project documentation.
 
-Contributing
+Contributing:
+
 Contributions to the project are welcome! Please follow the contributing guidelines outlined in the project repository to ensure smooth collaboration and code quality.
 
-Contact
+Contact:
+
 For questions, feedback, or support, please contact the project maintainers:
 
 Collins Ozigbo
