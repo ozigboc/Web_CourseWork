@@ -66,3 +66,14 @@ Performance optimizations and scalability improvements for handling larger user 
 Stay tuned for updates!
 
 Feel free to fork, contribute, and use this project in your own applications. Happy coding!
+
+Important Link
+
+1. GitHub Repository Link
+   https://github.com/ozigboc/Web_CourseWork
+
+2. SWAGGER LINK
+   https://cutedgeapp.azurewebsites.net/swagger/index.html
+
+3. Link for the Azure App Deployment
+   https://cutedgeapp.azurewebsites.net
